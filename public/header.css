@@ -1,0 +1,24 @@
+.topnav a:hover {
+    color: black;
+  }
+  .container-fluid {
+    padding: 0;
+  }
+  .bg-warning{
+    background-color: #f6f4f3 !important;
+  }
+  .form-inline {
+    margin-right: 7px;
+  }
+  #navbarSupportedContent li a {
+    font-family: 'Changga One', cursive;
+  }
+  .form-control {
+    margin-left: 80px;
+  }
+  .btn-outline-success{
+    margin-right:30px;
+  }
+  .navbar-brand{
+    font-family: 'Changga One', cursive;
+  }
